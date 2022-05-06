@@ -1,0 +1,2 @@
+# ActivityTestExample
+basic java app
